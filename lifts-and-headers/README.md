@@ -1,4 +1,4 @@
-# Sailing Lifts, Headers, and Tacking Angles
+# Lifts, Headers, and Tacking Angles for Sailboat Racing
 
 In trigonometry we can solve any triangle given two angles and the
 length of just one leg. Here we use _bearing to the mark_, `BTM`, for
@@ -7,6 +7,7 @@ to the mark_, `DTM`, as our side. Given these three variables we can
 figure out where you are on the race course, where the corner is, and
 what the total sailing distance will be.
 
+![Sailing trigonometry](renderings/trig-layout.jpg)
 
 ## Total sailing distance
 
