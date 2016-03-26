@@ -1,6 +1,6 @@
 # Sailing Lifts, Headers, and Tacking Angles
 
-In trigonometry we can solve any triange given two angles and the
+In trigonometry we can solve any triangle given two angles and the
 length of just one leg. Here we use _bearing to the mark_, `BTM`, for
 our first angle, the tacking angle for the second, `TA`, and _distance
 to the mark_, `DTM`, as our side. Given these three variables we can
@@ -8,17 +8,7 @@ figure out where you are on the race course, where the corner is, and
 what the total sailing distance will be.
 
 
-
-
 ## Total sailing distance
-<!--
-Imagine you were on a square race course, as you look up towards the mark
-the bearing (degrees off you're bow, close-hauled), will be around 45 degrees,
-or half you're tacking angle. As you climb up the course, you're
-bearing to the mark will increase, and when it hits you're tacking
-angle (say, 90), you tack. Now your bearing is ZERO as the mark
-is straight ahead.
--->
 
 ![Total sailing distance](renderings/sailing-distance-given-tacking-angle-and-mark-bearing.png)
 
@@ -39,12 +29,12 @@ particularly over several legs.
 
 
 
-# Distance gained/lossed during headers and lifts
+# Distance gained/lost during headers and lifts
 
 ![Total sailing distance](renderings/distance-gained-given-shift.png)
 
 This plot shows the percentage of the total sailing distance gained or
-lossed for a shifts of different sizes, at different parts of the race course.
+lost for a shifts of different sizes, at different parts of the race course.
 
 The GREEN line shows when you are exactly in the middle of the
 course. IE, you have zero leverage and it doesn't matter what 
@@ -100,7 +90,7 @@ gets further away and you end up chasing the lay line.
 **Lessons:**
   - Avoid the corners if increased chance of a lift.
   - Seek HEADERs early in the FIRST LEG as any possible
-    lift will be less painfull.
+    lift will be less painful.
   - If you're near the CORNER, TACK on even the smallest LIFT.
   - NEVER tack on a HEADER when you're on the SHORT LEG, especially
     near the CORNER.
@@ -124,7 +114,7 @@ header only increases your total distance by just 4%.
 Following the DASHED RED LINE, which is 10% remaining of the LONG LEG,
 the mark is just off your bow and you have a short leg remaining.
 A lift will shrinks that other leg, while a header will increase it.
-Here, we have become very leveraged - HEADERs are really painfull and
+Here, we have become very leveraged - HEADERs are really painful and
 LIFTs look pretty good but they were worth more earlier in the leg.
 A 10 degree HEADER will add 11% of the remaining sailing distance while a 10
 degree LIFT reduces total distance by 14%.

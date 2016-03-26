@@ -1,4 +1,4 @@
-# Wind Anlysis for Sailing
+# Wind Analysis for Sailing
 Software to analyzing wind for sailboat racing.
 
 ## Currently Available:
