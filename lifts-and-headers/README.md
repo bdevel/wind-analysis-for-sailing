@@ -62,19 +62,18 @@ say, 70 degrees, and we get a shift that's a +10 degree header, our
 heading will be +10 degrees, and the new mark bearing will be 80
 degrees. We are getting closer to the corner.
 
+The **SOLID BLUE LINE** shows when you're on the **SHORT LEG** of the
+course. On a square course, as soon as you start the race you are on
+the short leg and it gets shorter the further you get up the course.
+
+The **RED LINE** shows when you are on the **LONG LEG**. For example,
+this is when course is skewed and you started on the long leg. Or,
+this is when you tacked before the corner and you have another tack
+with a short leg remaining.
 
 
-The *SOLID BLUE LINE* shows when you're on the *SHORT LEG* of the course,
-about 20% up the first leg. On a square course, as soon as you start
-the race you are on the short leg, and it gets shorter the further we
-get up the course.
 
-The *SOLID RED LINE* shows when you are on the *LONG LEG*, about 20% of
-leg completed. For example, this is when course is skewed and you started on
-the long leg. Or, this is when you tacked before the corner and you're
-on the longer leg.
-
-
+#### Blue Line
 
 Following the SOLID BLUE LINE, for 20% up the SHORT LEG, any _increase_
 in our bearing to the mark, aka, a _header_, is going to _shorten_ the
@@ -86,7 +85,7 @@ While on the SHORT LEG, any LIFT will _increase_ the total sailing
 distance. However, getting a lift here isn't so bad as a 10 degree
 lift only increases the distance by 4%.
 
-*Lessons:*
+**Lessons:**
   - On a SQUARE course, seek HEADERS on the FIRST leg.
   - On a SKEWED course, seek HEADERS on the SHORT LEG.
 
@@ -98,7 +97,7 @@ and a 10 degree lift adds 11% to our remaining distance. This is the
 _"sailing around the world"_ problem. As you get lifted, the corner
 gets further away and you end up chasing the lay line.
 
-*Lessons:*
+**Lessons:**
   - Avoid the corners if increased chance of a lift.
   - Seek HEADERs early in the FIRST LEG as any possible
     lift will be less painfull.
@@ -106,8 +105,7 @@ gets further away and you end up chasing the lay line.
   - NEVER tack on a HEADER when you're on the SHORT LEG, especially
     near the CORNER.
 
-
-
+#### Red Line
 
 If we follow the SOLID RED LINE, for 20% up the LONG LEG,
 it shows that HEADERs will _increase_ the sailing distance and
@@ -115,7 +113,7 @@ LIFTs will _reduce_ the total sailing distance. A 10 degree lift on
 the long leg, will reduce your sailing distance by 7%, while a 10 degree
 header only increases your total distance by just 4%.
 
-*Lessons:*
+**Lessons:**
   * When the course is SKEWED and you are sailing the
     LONG TACK first, LIFTS ARE GOOD.
   * When you are on the LONG TACK you want to AVOID HEADERS.
@@ -131,20 +129,21 @@ LIFTs look pretty good but they were worth more earlier in the leg.
 A 10 degree HEADER will add 11% of the remaining sailing distance while a 10
 degree LIFT reduces total distance by 14%.
 
-*Lessons:*
+**Lessons:**
   * On the LONG LEG, TACK on any HEADER near the CORNER.
   * ALWAYS tack on a HEADER on the LONG LEG, especially near CORNERS.
 
 
+### Summary
 
-*Summary:* IMPORTANT things to keep in mind while racing:
-  * Am I on the SHORT LEG or the LONG LEG. This is easy to tell: if
+Important things to keep in mind while racing:
+  * Are we on the SHORT LEG or the LONG LEG? This is easy to tell: if
     the mark bearing is between the wind and your bow, you're on the
     LONG LEG. If the mark is _past head to wind_, (or 45 degrees,
     given a 90 degree tacking angle), but you have not reached the
     lay line, you are on the SHORT LEG.    
   * CORNERS are DANGER ZONES for UNPREDICTABLE wind shifts.
-  * On a SKEWED course, sail the LONG TACK and SEEK LIFTS, or SHORT
-    LEG and seek HEADERs.
+  * On a SKEWED course, sail the LONG TACK and SEEK LIFTS, or sail the
+    SHORT LEG and seek HEADERs.
   * On a SQUARE course, SEEK HEADERs on the FIRST LEG.
 
