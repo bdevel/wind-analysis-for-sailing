@@ -87,7 +87,6 @@ for (i in 1:length(markBearings)){
 }
 
 
-
 legend(-8, -0.18, # places a legend at the appropriate place,
        c("Long Leg", "Middle", "Short Leg"), # puts text in the legend
        lty=c(1,1), # gives the legend appropriate symbols (lines)
