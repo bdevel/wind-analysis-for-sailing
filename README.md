@@ -1,2 +1,8 @@
-# wind-anlysis-for-sailing
-Software to analyzing wind for sailboat racing
+# Wind Anlysis for Sailing
+Software to analyzing wind for sailboat racing.
+
+## Currently Available:
+
+(Lifts and Headers)[lifts-and-headers/README.md] - Is it good or bad to tack on a header?
+
+
