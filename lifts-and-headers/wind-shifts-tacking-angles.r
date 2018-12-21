@@ -64,7 +64,6 @@ totalDistance <- function(dtm, mb, ta) {
   # Otherwize, If ta and mb are zero, this funciton returns zero
   # because the triangle has no sides. Kinda odd..
   total[total < dtm] = dtm
-  print(total)
   #if (out == Inf) {
   #  out = NA
   #}
