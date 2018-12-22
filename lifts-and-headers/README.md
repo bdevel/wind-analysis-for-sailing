@@ -1,5 +1,12 @@
 # Lifts, Headers, and Tacking Angles for Sailboat Racing
 
+
+![Shifting Course](lifts-and-headers/graphics/course-moving.png)
+
+
+![Leverage Shift](lifts-and-headers/graphics/leverage-shift.png)
+
+
 In trigonometry we can solve any triangle given two angles and the
 length of just one leg. Here we use _bearing to the mark_, `BTM`, for
 our first angle, the tacking angle for the second, `TA`, and _distance
