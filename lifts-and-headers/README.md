@@ -1,10 +1,10 @@
 # Lifts, Headers, and Tacking Angles for Sailboat Racing
 
 
-![Shifting Course](lifts-and-headers/graphics/course-moving.png)
+![Shifting Course](graphics/course-moving.png)
 
 
-![Leverage Shift](lifts-and-headers/graphics/leverage-shift.png)
+![Leverage Shift](graphics/leverage-shift.png)
 
 
 In trigonometry we can solve any triangle given two angles and the
